@@ -1,0 +1,133 @@
+Here are the common file extensions for all the languages we've discussed:
+
+Languages with Full Analyzers:
+
+Copy- PHP: .php
+- JavaScript: .js
+- HTML: .html, .htm
+- Java: .java
+- SQL: .sql
+- PL/SQL: .sql, .pls, .plb
+- PowerShell: .ps1, .psm1, .psd1
+- Assembly: .asm, .s
+- Verilog: .v, .vh
+- MATLAB: .m
+- Shell/Bash: .sh, .bash
+
+General Purpose Languages:
+
+Copy- Python: .py, .pyw, .pyx
+- C/C++: .c, .cpp, .h, .hpp
+- Ruby: .rb, .rbw
+- Swift: .swift
+- Go: .go
+- Rust: .rs
+- C#: .cs
+- TypeScript: .ts, .tsx
+- Kotlin: .kt, .kts
+- Scala: .scala
+- R: .r, .R
+- Perl: .pl, .pm
+- Lua: .lua
+
+Markup/Templating:
+
+Copy- XML: .xml
+- YAML: .yml, .yaml
+- JSON: .json
+- Markdown: .md, .markdown
+- LaTeX: .tex
+- Handlebars: .hbs
+- Pug: .pug
+- EJS: .ejs
+
+Web Technologies:
+
+Copy- CSS: .css
+- SCSS/SASS: .scss, .sass
+- Less: .less
+
+Hardware Description:
+
+Copy- VHDL: .vhd, .vhdl
+- SystemVerilog: .sv, .svh
+
+Scientific/Statistical:
+
+Copy- Fortran: .f, .for, .f90, .f95
+- IDL: .pro
+- SAS: .sas
+- SPSS: .sps
+
+Others:
+
+Copy- Ada: .ada, .adb, .ads
+- Dart: .dart
+- Pascal: .pas
+- Prolog: .pl, .pro
+- Haskell: .hs, .lhs
+- OCaml: .ml, .mli
+- Erlang: .erl
+- Elixir: .ex, .exs
+- F#: .fs, .fsx
+- COBOL: .cob, .cbl
+This is not an exhaustive list, as some languages might use multiple extensions or different extensions based on specific implementations or frameworks. Some files might also use no extension at all (like shell scripts or makefiles). CopyRetryCwhat about perl and allEditHere are additional file extensions including Perl and others:
+
+Perl & Related:
+
+Copy- Perl: .pl, .pm, .t, .pod
+- Perl Module: .pm
+- Perl Test: .t
+- Perl Documentation: .pod
+
+Shell Scripts:
+
+Copy- Bash: .sh, .bash, .bashrc, .bash_profile
+- Korn Shell: .ksh
+- C Shell: .csh, .tcsh
+- Z Shell: .zsh
+
+Configuration Files:
+
+Copy- Apache: .htaccess, .conf
+- Nginx: .conf
+- INI files: .ini
+- Properties: .properties
+- Configuration: .cfg, .config
+
+Build & Package Files:
+
+Copy- Make: Makefile, .mk, .make
+- CMake: CMakeLists.txt, .cmake
+- Gradle: .gradle
+- Maven: .pom, .xml
+- NPM: package.json
+- Yarn: yarn.lock
+
+Documentation & Data:
+
+Copy- Documentation: .doc, .docx, .pdf
+- CSV files: .csv
+- Text files: .txt
+- Rich Text: .rtf
+- Excel: .xls, .xlsx
+- SQLite: .db, .sqlite, .sqlite3
+
+Scripting Languages:
+
+Copy- VBScript: .vbs
+- AutoHotkey: .ahk
+- TCL: .tcl
+- AWK: .awk
+- Groovy: .groovy, .gvy
+- CoffeeScript: .coffee
+
+Other Special Files:
+
+Copy- Environment: .env
+- Docker: Dockerfile
+- Git: .gitignore
+- Batch Files: .bat, .cmd (Windows)
+- Visual Studio: .sln, .csproj, .vbproj
+- Ruby on Rails: .erb, .rake
+These file extensions help identify the type of file and its associated language or tool. Some files might not have extensions at all, particularly in Unix/Linux systems where file extensions are optional.
